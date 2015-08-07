@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- extend one of the Theme.AppCompat themes -->
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- customize the color palette -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/dark_green</item>
+        <item name="colorAccent">@color/accent_green</item>
+    </style>
+
+</resources>

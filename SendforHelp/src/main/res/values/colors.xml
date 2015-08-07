@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "green">#004D40</color>
+    <color name = "green_light_accent">#1DE9B6</color>
+    <color name = "green_accent">#00897B</color>
+    <color name = "red">#009688</color>
+    <color name = "dark_green">#000000</color>
+    <color name = "dark_blue">#01579B</color>
+    <color name = "accent_green">#03A9F4</color>
+    <color name = "black">#000000</color>
+    <color name = "blue">#00BCD4</color>
+    <color name = "white">#FFFFFF</color>
+    <color name = "grey">#DED9DA</color>
+    <color name = "lightgrey">#E7E6E8</color>
+    <color name = "background">#B2DFDB</color>
+</resources>

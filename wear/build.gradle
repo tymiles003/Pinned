@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    buildToolsVersion '20.0.0'
+    defaultConfig {
+        applicationId 'graphy.emergence'
+        minSdkVersion 20
+        targetSdkVersion 20
+        //TODO comment second line if build is not compiles for "L"
+        compileSdkVersion 20
+        versionCode 1
+        versionName '1.0'
+    }
+    buildTypes {
+        release {
+        }
+    }
+
+    productFlavors {
+        old {
+            minSdkVersion 20
+            targetSdkVersion 20
+            //TODO comment second line if build is not compiles for "L"
+            compileSdkVersion 20
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    // You must install or update the Support Repository through the SDK manager to use this dependency.
+    compile 'com.android.support:support-v13:+'
+    compile 'com.google.android.support:wearable:+'
+    compile 'com.google.android.gms:play-services-wearable:+'
+}

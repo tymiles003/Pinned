@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="230dp"
+    android:layout_marginLeft="12dp"
+    android:layout_marginRight="12dp"
+    android:layout_marginBottom="12dp"
+    android:layout_marginTop="12dp"
+    app:cardCornerRadius="2dp"
+    android:elevation="2dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1.0">
+
+        <RelativeLayout
+            android:layout_weight="0.9"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent">
+
+        <TextView
+            android:id="@+id/time_stamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date: "
+            android:textSize="10pt"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/edit"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="4dp"
+            />
+
+        <TextView
+            android:id="@+id/contacts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sent to: John Doe, Susie Q"
+            android:textSize="8pt"
+            android:layout_toRightOf="@+id/edit"
+            android:textColor="@color/black"
+            android:layout_below="@+id/time_stamp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="4dp"
+            />
+
+        <ImageView
+            android:id="@+id/map_string"
+            android:layout_width="fill_parent"
+
+            android:layout_centerHorizontal="true"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="15dp"
+            android:background="@color/black"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="5dp"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/contacts"/>
+
+            <Button
+                android:id="@+id/navigate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Navigate"
+                android:layout_marginLeft="15dp"
+                android:layout_below="@+id/map_string"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_weight="0.1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/delete_image"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:scaleType="fitCenter"
+            android:background="@drawable/contact_card_right"
+            android:src="@drawable/ic_clear_black_48dp"
+            android:layout_alignParentRight="true"/>
+        <TextView
+            android:layout_width="1dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content"
+            android:background="@color/grey"
+            android:layout_toLeftOf="@+id/delete_image"/>
+        </RelativeLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

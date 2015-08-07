@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/lightgrey">
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/one_press_enable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:switchMinWidth="60dp"
+        app:switchPadding="10dp"
+        android:text="Two Click Sharing"
+        android:gravity="right|center_vertical"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="16dp"
+        android:thumbTextPadding="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="15dp"
+        android:paddingRight="10dp"
+        android:textColor="@color/black"
+        />
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/history_disable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/one_press_enable"
+        app:switchMinWidth="60dp"
+        app:switchPadding="10dp"
+        android:gravity="right|center_vertical"
+        android:layout_alignParentRight="true"
+        android:thumbTextPadding="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="15dp"
+        android:paddingRight="10dp"
+        android:layout_below="@+id/one_press_enable"
+        android:text="Disable History"
+        android:textColor="@color/black"/>
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/combine_enable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:switchMinWidth="60dp"
+        app:switchPadding="10dp"
+        android:gravity="right|center_vertical"
+        android:layout_alignParentRight="true"
+        android:thumbTextPadding="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="30dp"
+        android:paddingRight="10dp"
+        android:layout_alignRight="@+id/one_press_enable"
+        android:layout_below="@+id/history_disable"
+        android:text="Merge SMS and Email sending"
+        android:textColor="@color/black"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/edit_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit Message"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/history_disable"
+        android:layout_alignRight="@+id/history_disable"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upgrade (Removes Ads)"
+        android:layout_below="@+id/edit_message"
+        android:layout_alignRight="@+id/edit_message"/>
+
+</RelativeLayout>

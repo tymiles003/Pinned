@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-e44f423384d8d8b860f4340260b99aaa71498886.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-c3cf9f5c587ad4f952697a50b51982d03c7a2c34.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-040d7499fc5f23233e5ba5f5bacfa260c79a8037.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/gson-2.3.1-a9d4be6d040b8f540f71a8fdc36c832986645460.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-1e3fcb583b4e8e6cce5241f338e1aab1dc08f68b.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-8f3a5f165741aa045a3c0d12454b3fb181367df2.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-24231575410f4e911a1b31b465b55bd17b4bc2eb.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-9540190d44b37d0cc6a0297555a6571acf10dd11.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-230275b87819900a87f733052095dbd5c4cc12b0.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-7267e5d50d1b3f6278fcf83eb676e0d5c02f5162.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-2707bf9865a4ccbe27dba05c9981160e1fd048a9.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-4db7cf8e510d4372a3e89f0c8b505784c395282f.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-5985d15f2e874372c0a8e47877c7f44152d94960.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1b2abf4f88ce9bef2f71e6c131379f2f12195d46.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-2c15011abc08573caf0849817d2adef84d5a2304.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-f605ebf129a4d294258d87ba36d0a62a52563194.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-c639e02706bf87cb585dfc37e6de8bef09257475.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-1c120f5af716ba3bbfdb652b06bba7097ea88c63.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-6feeda98a9e1eaf4fd0d48c724d2bbdeb56fd3e3.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-cc95c3f6fc8a49a0a7914ee3217131d137ebcca5.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-9ba09b524e439384ea25621a933a58315e1e29c5.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-de8e9c1f4ed623f39ea20f298ad003e2bcc8cce6.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-2f7511caee86e37d51068bfef229a23fbd41694a.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-d4ecec75aa922ae470dafa3e69f05893d8cbea12.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-796c8bc32dbdeef6961f470a7e7fa36771482644.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-427aeb729b9b80e3b1f170c1d120e3e07d5b0e04.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-5c7d04bf09952a5b1e955bfaf359031d812b7ed3.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-3d82a301519741777ae7719661f1834858bfdffd.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/classes-7ccdffff575fc98818e22c9c07e49c31d524d024.jar" />
+    </item>
+    <item
+        jar="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/justingagnon/Documents/Github/MapShare/SendforHelp/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-ba0419f723eecb8249d27b7036719cf9cb503240.jar" />
+    </item>
+
+</items>
