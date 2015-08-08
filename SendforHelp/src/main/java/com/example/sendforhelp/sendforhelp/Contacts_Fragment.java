@@ -182,7 +182,7 @@ public class Contacts_Fragment extends Fragment
                 Uri contactData = data.getData();
                 Cursor c = getActivity().getContentResolver().query(contactData, null, null, null, null);
                 if (c.moveToFirst()) {
-                    String id = c.getString(c.getColumnIndexOrThrow(ContactsContract.Contacts._ID));
+                    Strgit ing id = c.getString(c.getColumnIndexOrThrow(ContactsContract.Contacts._ID));
                 }
             }
 
